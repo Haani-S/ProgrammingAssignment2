@@ -6,6 +6,7 @@
 #get the value of the matrix
 #set the value of the inverse
 #get the value of the inverse
+#<<- operator is used to assign a value to an object in an environment that is different from the current environment
 
 
 makeCacheMatrix <- function(x = matrix()){
